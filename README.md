@@ -11,12 +11,27 @@ EDUCATION
 
 WORK EXPERIENCE  
 ------------------------------------------------------------------------------------------------------------------------------
+Mundo Tênis: July 2025 - Present
+Job: Business Intelligence and Analytics Consultant
+I am responsible for designing and implementing end-to-end BI solutions leveraging Power BI and Google Sheets. My work involves:
+- Extracting, transforming, and loading (ETL) data from Google Sheets, creating a structured datalake using interconnected spreadsheets;
+- Building optimized data models and writing DAX measures to enable accurate and actionable insights;
+- Developing dashboards and reports in Power BI that consume the datalake and support decision-making across the organization;
+- Applying Power Query and M language for efficient data transformation and automation of repetitive tasks.
+
 Kinesis IT: June 2025 - Present
 Job: Business Intelligence and Analytics Consultant
 Tech Stack: Power BI, Power Query, M Language, DAX, SQL and Excel
 I worked as a Business Intelligence and Analytics consultant, allocated at Atvos, a major player in the bioenergy sector, where I focused on creating and optimizing advanced dashboards and reports in Power BI, integrated with SAP ERP data. I led the development of new data-driven visual solutions by connecting multiple data sources and building complex data models:
 - Analyzed and fixed a strategic report with over 30 pages and 45 tables, eliminating inconsistencies and improving performance and usability
 - Delivered actionable insights for decision-making through intuitive visualizations and well-structured metrics
+
+TFlow: April 2025 - June 2025
+Job: Business Intelligence and Analytics Consultant
+Tech Stack: Power BI, Excel, SQL, Python, Pandas and Numpy
+- I help maintain and analyze a data architecture in the Excel/Power BI;
+- I performed Power BI code review and wrote documentation of data architectures;
+- Together with the Business Intelligence and Analytics team, we are designing a new data architecture.
 
 Devee Financial Intelligence: March 2025 – May 2025
 Job: Business Intelligence and Analytics Consultant
